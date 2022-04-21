@@ -1,0 +1,20 @@
+{
+  "titreSession": "Session pléniaire",
+  "videoID": "",
+  "intervenant": "",
+  "descriptionIntervention": "",
+  "heureDebutPrevisionelle": "",
+  "rapport": [
+    {
+      "libelle": "",
+      "num": "test123",
+      "heureDebutEtude": "",
+      "heureFinEtude": "",
+      "rapporteurs": [
+        "rapporteur 1",
+        "rapporteur 2"
+      ],
+      "statut": "en cours"
+    }
+  ]
+}
